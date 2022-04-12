@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9284
-Fork on GitHub
-2123
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Adam Donaghy</h1>
 <h3 align="center">Currently learning Python and SQL</h3>
 
