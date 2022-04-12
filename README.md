@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Donaghy</h1>
 <h3 align="center">A Software Developer attending Nashville Software School's Web Development Bootcamp</h3>
+<p align="left">🔭 I’m currently learning Python and SQL</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donaghyam" alt="donaghyam" /></a> </p>
 
