@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Donaghy</h1>
-<h3 align="center">Currently learning Python and SQL</h3>
+<h3 align="center">Currently learning Python and SQL, as a part of Nashville Software School's Web Development Bootcamp</h3>
 
 - 📫 How to reach me **donaghyam@gmail.com**
 
