@@ -1,21 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9284
-Fork on GitHub
-2123
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Gardening With A Growth Mindset</h1>
-<h3 align="center">Front-End Capstone Project</h3>
+<h1 align="center">Hi 👋, I'm Adam Donaghy</h1>
+<h3 align="center">A Software Developer attending Nashville Software School's Web Development Bootcamp</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donaghyam" alt="donaghyam" /></a> </p>
 
